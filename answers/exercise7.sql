@@ -1,4 +1,4 @@
-mysql> Select * FROM Course WHERE CreditHours BETWEEN '10' and '20';
+mysql> Select * FROM Courses WHERE CreditHours BETWEEN '10' and '20';
 +----------+------------+-------------+------+
 | CourseID | CourseName | CreditHours | Year |
 +----------+------------+-------------+------+
